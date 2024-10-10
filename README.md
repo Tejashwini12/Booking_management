@@ -1,4 +1,4 @@
-**# API Testing with pytest**
+** API Testing with pytest**
 
 ### Introduction
 
@@ -22,7 +22,7 @@
     conftest.py: This file contains fixture definitions. Key fixtures include:
     
 
-**##### Project Structure**
+##### Project Structure**
 
 #### Data files
 
@@ -49,7 +49,7 @@
         Each test case checks specific aspects of the API’s functionality and behavior.
 
 
-**###### Usage**
+###### Usage**
 
     Run Tests: Execute your tests using pytest 
 
